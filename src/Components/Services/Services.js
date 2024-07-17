@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-    baseURL: "https://fomofactory.onrender.com/api",
+    baseURL: "https://www.backendfomo.streetswear.in/api",
     headers: {
         "Content-Type": "application/json",
     },
